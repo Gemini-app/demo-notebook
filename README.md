@@ -1,1 +1,3 @@
-Thu Sep 13 2018 20:37:52 GMT+0800 (CST)
+For test cases.
+
+!! DO NOT EDIT `__tests__/fixtures/**` !!
